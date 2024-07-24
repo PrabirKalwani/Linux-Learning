@@ -44,6 +44,9 @@ Here are some steps you can take to troubleshoot and resolve this issue:
 
 7. **Unpair and Repair the Device**: If the device is paired using a Logitech Unifying Receiver, try unpairing and then repairing the device using the `solaar` application or the Logitech software.
 
+https://askubuntu.com/questions/728447/how-to-manually-install-hid-logitech-dj-module 
+
+
 ### The first driver issue being the `Nvidia Driver`
 
 To download the NVIDIA driver for Linux, follow these steps:
@@ -55,7 +58,6 @@ To download the NVIDIA driver for Linux, follow these steps:
      lspci | grep -i nvidia
      ```
 
-https://askubuntu.com/questions/728447/how-to-manually-install-hid-logitech-dj-module 
 
 
 2. **Download the NVIDIA Driver:**

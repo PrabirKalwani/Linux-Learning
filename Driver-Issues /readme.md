@@ -55,6 +55,9 @@ To download the NVIDIA driver for Linux, follow these steps:
      lspci | grep -i nvidia
      ```
 
+https://askubuntu.com/questions/728447/how-to-manually-install-hid-logitech-dj-module 
+
+
 2. **Download the NVIDIA Driver:**
 
    - Visit the [NVIDIA Driver Downloads page](https://www.nvidia.com/Download/index.aspx).
